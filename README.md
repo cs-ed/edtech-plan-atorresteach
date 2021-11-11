@@ -6,9 +6,14 @@ Provide a brief description of the purpose of your educational technology Plan
 ## Context
 
 ### Course
+### AP Computer Science Principles 
 
 AP Computer Science Principles introduces students to the foundational concepts of the field 
 and challenges them to explore how computing and technology can impact the world.
+
+AP Computer Science is available to 10th-12th grade students as an elective. 
+Meets A-G requirment by providing students credit in the _ field if they get a C or better.
+
 
 ### Situation
 
@@ -16,7 +21,16 @@ Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
 
+Class sizes:
+Student Demographic: 
+Classroom Technology:
+
 ## Plan
+Instructor Device: 
+HP Prodesk
+Student Desktop (30 workstations in a computer lab):
+with ___" monitor
+
 
 ### Software Specifications
 
