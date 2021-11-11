@@ -7,7 +7,8 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+AP Computer Science Principles introduces students to the foundational concepts of the field 
+and challenges them to explore how computing and technology can impact the world.
 
 ### Situation
 
@@ -22,6 +23,10 @@ context of your class, considering demographic and technical resources?
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+
+* Google Classroom as a learning Management
+* GitHub for e-Portfolios
+* codeHS for students IDE's
 
 ### Hardware Specifications
 
