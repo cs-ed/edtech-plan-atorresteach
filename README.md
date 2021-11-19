@@ -53,9 +53,9 @@ Student Demographic:
 * 1% Other
 Classroom Technologies: LFD, Projector, One to one chromebook, computer lab.
 
-Indio High School is one of five high school in the Desert Sands Unified School District.  Each of the comprehensive high school offer specialty
-courses unaviable at other sites.  Indio High School has an innovative Enginneering CTE program that would benefit from adding computer science courses 
-into their course load. Bridging it with CTE can be an assett to the program because it will provide additional rigourous coursework.  Currently there are no computer science courses offered at our site and we have seen an increase in students applying to be computer science majors. AP Computer Science Principles will aid students in their path to becoming college and career ready. 
+Indio High School is one of five high schools in the Desert Sands Unified School District.  Each of the comprehensive high school offer specialty
+courses available at other sites.  Indio High School has an innovative Engineering CTE program that would benefit from adding computer science courses 
+into their course load. Bridging it with CTE can be an asset to both programs  because it will help to build interest and provide additional rigorous coursework to an established program.  Currently there are no computer science courses offered at our school and we have seen an increase in students applying to be computer science majors, and have found the coursework difficult since they are entering college with no previous experience.  AP Computer Science Principles will aid students in their path to becoming college and career ready. 
 
 ---
 ## Plan
