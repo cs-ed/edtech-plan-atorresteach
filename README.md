@@ -12,7 +12,7 @@ They will incorporate abstraction into programs and use data to discover new kno
 Students will also explain how computing innovations and computing systems, including the
 Internet, work, explore their potential impacts, and contribute to a computing culture that
 is collaborative and ethical. It is important to note that the AP Computer Science Principles at 
-Indio High School will be using the programming language of Python as its designated programming language.(CollegeBoard)*
+Indio High School will be using the programming language of Python as its designated programming language (CollegeBoard).*
 
 ---
 ### Course
@@ -36,13 +36,15 @@ Meets A-G requirment by providing students credit in the C field if they get a C
 **Prerequisites:**
 * Completed Integrated Math 1 with a C- or better both semesters
 * Completed Integrated Math 2 with a C- or better both semesters
+
 ---
 ### Situation
 ---
- What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
 
 Class sizes: 35-45 students
+-Class sizes tend to be large which can make it difficult since typically the student population needs a lot more
+one on one guidance.  To overcome this hurdle, I try to create a collaborative learning environment in each students are placed in a group either three or four. Students build trust and confidence in each other, which provides them more access to help from their peers.
+
 Student Demographic: 
 * 100 % Title 1 (Free and Reduced Lunch)
 * 94 % Latino/Hispanic
@@ -58,37 +60,38 @@ into their course load. Bridging it with CTE can be an assett to the program bec
 ---
 ## Plan
 ---
-Instructor Device: 
-HP Prodesk
-Student Desktop (30 workstations in a computer lab):
-with ___" monitor
+
 
 ---
-### Software Specifications
+### Hardware Specifications
 ---
+Student Computer Lab
 * 35 machines.
 * System Model HP Z240 SFF Workstation
 * Processor Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, 3408 Mhz, 4 Core(s), 8 Logical Processor(s)
 * Installed Physical Memory (RAM) 16.0 GB
 * Storage Size 921.71 GB (989,681,676,288 bytes)
 
-* One to One Chromebooks
+* Students are One to One Chromebooks
+
+Instructor Device: 
+*HP Prodesk
+
+---
+### Software Specifications
+---
 * Google Classroom as a learning Management
+* Google G-Suite
 * GitHub for e-Portfolios
 * codeHS for students IDE's- 
 CodeHS is an interactive online learning platform computer science and programming for instruction.  
 CodeHS provides online instructional materials supported by remote tutors.
 
 ---
-### Hardware Specifications
----
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
-
----
 ### Application
 ---
-**The course framework includes two essential components (CollegeBoard):
+
+**The course framework includes two essential components (CollegeBoard):**
 
 **1. COMPUTATIONAL THINKING PRACTICES**
 The computational thinking practices are central to the study and
@@ -128,12 +131,12 @@ Google Forms, and Quizziz will also be used.
 Code HS will be used on Performance tasks to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.
 
 Grading Policy:
-Syllabus will provide students with the coursework and grade allocations.
+Course Syllabus will provide students with the course description and grading policy.
 Students can check scores on Google Classroom or current grades on Synergy.
 
 ---
 ### Impacts
 ---
 Technology in our world is seen as either an asset or a hindrance in education.  When schools closed in March 2020 it was our only connection to some of our students, and 
-quickly we realized the socioeconomic divide in our school. Many of our students did not have access to the internet.  There were areas in the valley that our district MIFI's could not reach.  This was not an issue that was easily solved and even at the start of the 2020/2021 school year we found ourselves in the same situation.  Some students showcased resiliency, while others disappeared from our classes. There was no requirement for cameras or for students to talk in class, we were told due to privacy we could not require these from our students.  And so the muted black screen was our classroom.  After talking with teachers around the country the message was different depending on the school district more than by state.  One thing that stood out was in low socioeconomic areas there tended to be less requirements.  Data suggest in our district that English Language Learners, special education, and students from a low socioeconomic background had the largest learning loss. Currently we are continually evolving course content to meet the needs of our students while still attempting to maintain grade level standards.  Technology has allowed us to be innovative and find ways to meet the needs of all students by using google translate for our online math program to help *all* English Language Learners no matter what their first language.  To overcome many of these challenges it is important to create a safe, supportive and rigorous classroom environment. **Impact**on student learning happens when you make connections with your students and aid them in developing the “math or computer science” confidence they lack.  Technology is a tool that will be there to guide them on their journey and provide them with the skill set needed to be successful after graduation.
+quickly we realized the socioeconomic divide in our school. Many of our students did not have access to the internet.  There were areas in the valley that our district MIFI's could not reach.  This was not an issue that was easily solved and even at the start of the 2020/2021 school year we found ourselves in the same situation.  Some students showcased resiliency, while others disappeared from our classes. There was no requirement for cameras or for students to talk in class, we were told due to privacy we could not require these from our students.  And so the muted black screen was our classroom.  After talking with teachers around the country the message was different depending on the school district more than by state.  One thing that stood out was in low socioeconomic areas there tended to be less requirements.  Data suggest in our district that English Language Learners, special education, and students from a low socioeconomic background had the largest learning loss. Currently we are continually evolving course content to meet the needs of our students while still attempting to maintain grade level standards.  Technology has allowed us to be innovative and find ways to meet the needs of all students by using google translate for our online math program to help *all* English Language Learners no matter what their first language.  To overcome many of these challenges it is important to create a safe, supportive and rigorous classroom environment. **Impact** on student learning happens when you make connections with your students and aid them in developing the “math or computer science” confidence they lack.  Technology is a tool that will be there to guide them on their journey and provide them with the skill set needed to be successful after graduation.
 
