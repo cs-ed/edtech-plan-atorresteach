@@ -1,5 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6007464&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
+[Rajahs.pdf](https://github.com/cs-ed/edtech-plan-atorresteach/files/7567816/Rajahs.pdf)
 ### AP Computer Science Principles 
 *AP Computer Science Principles introduces students to the breadth of the field of computer
 science. In this course, students will learn to design and evaluate solutions and to apply
@@ -30,7 +31,7 @@ The main goals of this introductory, college-level computer science course are:
 AP Computer Science is available to 10th-12th grade students as an elective, or third or fourth year of math credit. 
 Meets A-G requirment by providing students credit in the C field if they get a C or better.
 
-*Prerequisites:
+**Prerequisites:**
 Completed Integrated Math 1 with a C- or better both semesters
 Completed Integrated Math 2 with a C- or better both semesters
 
