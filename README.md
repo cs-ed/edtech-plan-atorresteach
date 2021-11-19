@@ -62,9 +62,9 @@ into their course load. Bridging it with CTE can be an assett to the program bec
 ---
 
 
----
+
 ### Hardware Specifications
----
+
 Student Computer Lab
 * 35 machines.
 * System Model HP Z240 SFF Workstation
@@ -77,9 +77,7 @@ Student Computer Lab
 Instructor Device: 
 *HP Prodesk
 
----
 ### Software Specifications
----
 * Google Classroom as a learning Management
 * Google G-Suite
 * GitHub for e-Portfolios
