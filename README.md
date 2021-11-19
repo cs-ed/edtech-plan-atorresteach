@@ -32,8 +32,8 @@ AP Computer Science is available to 10th-12th grade students as an elective, or 
 Meets A-G requirment by providing students credit in the C field if they get a C or better.
 
 **Prerequisites:**
-Completed Integrated Math 1 with a C- or better both semesters
-Completed Integrated Math 2 with a C- or better both semesters
+*Completed Integrated Math 1 with a C- or better both semesters
+*Completed Integrated Math 2 with a C- or better both semesters
 
 
 ### Situation
@@ -74,10 +74,9 @@ with ___" monitor
 * One to One Chromebooks
 * Google Classroom as a learning Management
 * GitHub for e-Portfolios
-* codeHS for students IDE's
-
-
- **CodeHS is an interactive online learning platform computer science and programming for instruction.  CodeHS provides online instructional materials supported by remote tutors.
+* codeHS for students IDE's- ![Rajahs (2)](https://user-images.githubusercontent.com/89416299/142574572-51d1f0e2-8d43-4ed8-b2b2-0aee0eac7535.png)
+CodeHS is an interactive online learning platform computer science and programming for instruction.  
+CodeHS provides online instructional materials supported by remote tutors.
 
 ### Hardware Specifications
 
