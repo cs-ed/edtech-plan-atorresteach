@@ -86,10 +86,19 @@ wherever necessary.
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-Learning in class
+The course framework includes two essential components (CollegeBoard):
+
+**1. COMPUTATIONAL THINKING PRACTICES**
+The computational thinking practices are central to the study and
+practice of computer science. Students should practice and develop
+these skills on a regular basis over the span of the course.
+
+**2. COURSE CONTENT**
+The course content is organized into big ideas, which are cross-cutting
+concepts that build conceptual understanding and spiral throughout the
+course. The content and conceptual understandings within the big ideas
+reflect what colleges and universities typically expect students to master
+to qualify for college credit and/or placement. 
 
 **Teaching Tools:**
 * App Inventor
@@ -111,19 +120,14 @@ Students will communicate with teachers using email or through private message o
 *All Assignments and Due Dates will be posted in Google Clasroom.
 Teacher will grade assignments from Google Classroom, and then export grades to School Loop.
 
-Assessments
+**Assessments:**
+Some Assessments will be done on AP Classroom which provides students access and practice with AP questions. 
+Google Forms, and Quizziz will also be used. 
+Code HS will be used on Performance tasks to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.
 
-For quizzes, tests, and final exam, we will use IlluminateEd to create the assessments, and then students can go there to do the assessments, and multiple choice questions will be automatically graded. IlluminateEd is not the best software for entering test questions, it is very tedious; but this is the only testing software that we have.
-
-Sometimes I use Kahoot to give students quick tests. The competition creates some fun.
-
-Assessments – Performance Tasks
-
-Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.
-
-Checking Grades
-
-Students can check their grades in SchoolLoop or Naviance (offical posted grades).
+**Grading Policy:**
+Syllabus will provide students with the coursework and grade allocations.
+Students can check scores on Google Classroom or current grades on Synergy.
 
 ### Impacts
 
