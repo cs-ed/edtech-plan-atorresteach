@@ -1,8 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6007464&assignment_repo_type=AssignmentRepo)
-# Educational Technology Plan
+# Educational Technology Plan- Indio High School
 ---
-![Rajahs (3)](https://user-images.githubusercontent.com/89416299/142576087-887486e0-35f3-4458-94a3-acdc8c57ebfe.png)
-
+![Rajahs (4)](https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png)
+---
 ### AP Computer Science Principles 
 ---
 *AP Computer Science Principles introduces students to the breadth of the field of computer
