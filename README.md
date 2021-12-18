@@ -43,7 +43,7 @@ Meets A-G requirment by providing students credit in the C field if they get a C
 
 Class sizes: 35-45 students
 -Class sizes tend to be large which can make it difficult since typically the student population needs a lot more
-one on one guidance.  To overcome this hurdle, I try to create a collaborative learning environment in each students are placed in a group either three or four. Students build trust and confidence in each other, which provides them more access to help from their peers.
+one on one guidance.  To overcome this hurdle, I try to create a collaborative learning environment in each students are placed in a group either three or four. Students build trust and confidence in each other, which provides them more access to help from their peers.  Lunch time tutoring, After school tutoring, and Saturday School Tutoring is necessary to provide students will adequate opportunities to get indiviualize help on areas in their coursework where they find themselves struggling. 
 
 Student Demographic: 
 * 100 % Title 1 (Free and Reduced Lunch)
@@ -54,12 +54,13 @@ Student Demographic:
 Classroom Technologies: LFD, Projector, One to one chromebook, computer lab.
 
 Indio High School is one of five high schools in the Desert Sands Unified School District.  Each of the comprehensive high school offer specialty
-courses available at other sites.  Indio High School has an innovative Engineering CTE program that would benefit from adding computer science courses 
-into their course load. Bridging it with CTE can be an asset to both programs  because it will help to build interest and provide additional rigorous coursework to an established program.  Currently there are no computer science courses offered at our school and we have seen an increase in students applying to be computer science majors, and have found the coursework difficult since they are entering college with no previous experience.  AP Computer Science Principles will aid students in their path to becoming college and career ready. 
+courses that may not be available at other sites.  Indio High School has an innovative Engineering CTE program that would benefit from adding computer science courses into their four year framework. Bridging Computer Science with CTE can be an asset to both programs because it will help to build interest and provide additional rigorous coursework to an already established program.  Currently we have dual enrollment courses with College of the Desert for A+ Certification, but there are no computer science or programing courses offered at our school. The engineering program does introduce limited program knowledge at this time. Our site has seen an increase in students applying to be computer science majors, and students have found the coursework difficult since they are entering college with no previous experience.  AP Computer Science Principles will aid students in their path to becoming college and career ready. 
+
+IHS has an eight period A/B block schedule where classes are 90 min in length.  This schedule creates hurdles for AP teachers because class instruction time is limited and the inconsistency of seeing students every other day hinders students in maintaining class knowledge.  The schedule is in place to aid in offering remediation and the added English Learner classes required by the state while still providing students with room in their schedule for electives.  However, the schedule poses problems for honors and advanced coursework since a great majority of our students are socially economically disadvantaged and need more support in the classroom, teachers struggle to cover designated class standards in the limited instructional hours.  
 
 ---
 ## Plan
----
+--- 
 
 
 
@@ -70,12 +71,25 @@ Student Computer Lab
 * System Model HP Z240 SFF Workstation
 * Processor Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, 3408 Mhz, 4 Core(s), 8 Logical Processor(s)
 * Installed Physical Memory (RAM) 16.0 GB
-* Storage Size 921.71 GB (989,681,676,288 bytes)
+* 1 TB Harddrive 
 
-* Students are One to One Chromebooks
+Student Samsung Chromebooks
+* Processor: Intel Celeron, 1.1 GHz
+* Memory: 4 GB RAM
+* Storage Capacity: 16.4 GB of the 32 GB SSD
+* Display: 11.6” HD LED
 
-Instructor Device: 
-*HP Prodesk
+Instructor Devices: 
+* HP Prodesk installed this fall
+* Windows 11 Pro
+* 10th Generation Intel® Core™ i3 processor
+* 128 GB DDR4 Memory 
+* 8TB Storage
+* 2-21.5" diagonal FHD display
+
+Aver U50 Document Camera
+
+NEC PE455UL Projector
 
 ### Software Specifications
 * Google Classroom as a learning Management
@@ -117,11 +131,15 @@ Collaboration and Communication:
 * Jamboard
 
 Communication:
-Students will communicate with teachers using email or through private message on Google Classroom.
+Google Classroom will be used daily to post daily lessons. Posts will include information about classwork and homework assignments, due dates and directions on where assigned work will be completed and submitted. Students will be able to send private messages to the teacher.
+
+School email accounts should be checked reguarly by all students in order to receive school-related information and to communicate with teachers and staff. Google Drive will be actively used as the location to maintain school-related files. Students will be expected to create Documents, Sheets, Slides, and collaborate in all these platforms by sharing  with group members in their Google Drive.  Students will also be expected to upload photos or scans of their work to Google Classroom.
+
+The district uses Synergy, to communicate assignments and due dates to both students and parents since it is synced with Google Classroom. Synergy is also avaialable as a tool for email communication with parents, staff, and students. Notes can be made in Synergy to notate contacts made with parents, classroom behavior interventions, and to initiate disciplinary action by sending a referral to administration. 
 
 Homework Policy:
 *All Assignments and Due Dates will be posted in Google Clasroom.
-Teacher will grade assignments from Google Classroom, and then export grades to School Loop.
+Teacher will grade assignments from Google Classroom, and then export grades to Synergy.
 
 Assessments:
 Some Assessments will be done on AP Classroom which provides students access and practice with AP questions. 
